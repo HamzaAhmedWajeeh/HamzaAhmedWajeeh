@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-16233b?style=flat-square&logo=linkedin&logoColor=e8b44c" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hamza-wajeeh/"><img src="https://img.shields.io/badge/LinkedIn-16233b?style=flat-square&logo=linkedin&logoColor=e8b44c" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-16233b?style=flat-square&logo=gmail&logoColor=e8b44c" alt="Email" /></a>
+<a href="mailto:hamzaahmedwajeeh@gmail.com"><img src="https://img.shields.io/badge/Email-16233b?style=flat-square&logo=gmail&logoColor=e8b44c" alt="Email" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Riyadh%2C%20Saudi%20Arabia-16233b?style=flat-square&logo=googlemaps&logoColor=e8b44c" alt="Riyadh, Saudi Arabia" />
 &nbsp;
