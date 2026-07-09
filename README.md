@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:16233b,100:0b1220&height=220&section=header&text=Hamza%20Ahmed%20Wajeeh&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=AI%20%2B%20Backend%20Engineer%20%C2%B7%20Riyadh%2C%20Saudi%20Arabia&descSize=18&descAlignY=55&animation=fadeIn" alt="Hamza Ahmed Wajeeh" width="100%" />
 
 <a href="https://github.com/HamzaAhmedWajeeh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=E8B44C&center=true&vCenter=true&width=620&lines=Production+AI+on+air-gapped+infrastructure;Arabic-first+LLM+systems+at+national+scale;Django+%C2%B7+FastAPI+%C2%B7+vLLM+%C2%B7+Kubernetes;GPU+servers+in+locked+rooms%2C+products+that+ship" alt="Production AI on air-gapped infrastructure" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=E8B44C&center=true&vCenter=true&width=620&lines=Production+AI+on+air-gapped+infrastructure;Arabic-first+LLM+systems+at+national+scale;Django+%C2%B7+FastAPI+%C2%B7+vLLM+%C2%B7+Kubernetes;GPU+servers+in+locked+rooms%2C+products+that+ship" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8A6410&center=true&vCenter=true&width=620&lines=Production+AI+on+air-gapped+infrastructure;Arabic-first+LLM+systems+at+national+scale;Django+%C2%B7+FastAPI+%C2%B7+vLLM+%C2%B7+Kubernetes;GPU+servers+in+locked+rooms%2C+products+that+ship" alt="Production AI on air-gapped infrastructure" />
+  </picture>
 </a>
 
 <br/><br/>
