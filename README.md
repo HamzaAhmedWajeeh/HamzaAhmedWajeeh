@@ -89,6 +89,6 @@ More coming as I carve the shareable parts out of private work.
 
 ## Find me
 
-LinkedIn is where I write about sovereign AI and shipping in constrained environments: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN). Email works too: [you@example.com](mailto:you@example.com).
+LinkedIn is where I write about sovereign AI and shipping in constrained environments: [linkedin.com/in/hamza-wajeeh](https://www.linkedin.com/in/hamza-wajeeh/). Email works too: [hamzaahmedwajeeh@gmail.com](mailto:hamzaahmedwajeeh@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:16233b,100:0b1220&height=110&section=footer" alt="" width="100%" />
