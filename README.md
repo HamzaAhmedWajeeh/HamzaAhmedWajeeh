@@ -71,12 +71,12 @@ More coming as I carve the shareable parts out of private work.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamzaAhmedWajeeh&show_icons=true&hide_border=true&bg_color=0b1220&title_color=e8b44c&text_color=e6edf3&icon_color=4fd6be&border_radius=10&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=HamzaAhmedWajeeh&hide_border=true&background=0b1220&ring=e8b44c&fire=e8b44c&currStreakNum=e6edf3&currStreakLabel=e8b44c&sideNums=e6edf3&sideLabels=4fd6be&dates=7d8590&border_radius=10" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmedWajeeh&layout=compact&hide_border=true&bg_color=0b1220&title_color=e8b44c&text_color=e6edf3&border_radius=10&langs_count=8" alt="Top languages" />
+<img src="./profile/top-langs.svg" alt="Top languages" />
 
 <br/><br/>
 
