@@ -67,14 +67,9 @@ More coming as I carve the shareable parts out of private work.
 
 </div>
 
-## Stats
+## Languages
 
 <div align="center">
-
-<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=HamzaAhmedWajeeh&hide_border=true&background=0b1220&ring=e8b44c&fire=e8b44c&currStreakNum=e6edf3&currStreakLabel=e8b44c&sideNums=e6edf3&sideLabels=4fd6be&dates=7d8590&border_radius=10" alt="GitHub streak" />
-
-<br/><br/>
 
 <img src="./profile/top-langs.svg" alt="Top languages" />
 
