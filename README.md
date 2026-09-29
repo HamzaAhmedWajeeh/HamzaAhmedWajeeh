@@ -35,9 +35,9 @@ Client work stays behind client firewalls, so here's the shape of it instead of 
 
 | System | What it does | Scale |
 |---|---|---|
-| Arabic voice intelligence platform | 8-stage speech pipeline turning call-center audio into searchable analytics | ~400K calls a year, fully on-prem |
-| National RFID monitoring platform | Real-time tag ingestion over MQTT, Celery processing, live ops dashboards | 9 sites, 36 fixed readers, 500+ tests, hard go-live date |
-| Arabic social listening platform | Multi-source ingestion, deduplication, and analytics for public-sector monitoring | In production, CI/CD via GitHub Actions |
+| Arabic voice intelligence platform | 8-stage speech pipeline turning call-center audio into searchable analytics | ~400K calls a year on 6 air-gapped servers |
+| National RFID monitoring platform | Real-time tag ingestion over MQTT, Celery processing, live ops dashboards, warm-standby failover | First site live and validated end to end, failover drills passed, 9 sites and 36 readers at full build-out |
+| Arabic social listening platform | Multi-source ingestion, deduplication, analytics, and compliance-evidence reporting for public-sector monitoring | In production, CI/CD via GitHub Actions |
 
 Currently in delivery: an air-gapped enterprise RAG layer with dual-lane vLLM serving, a 14B fast lane and a 72B heavy lane on dedicated GPU nodes.
 
@@ -45,13 +45,10 @@ Currently in delivery: an air-gapped enterprise RAG layer with dual-lane vLLM se
 
 | Repo | What it is |
 |---|---|
+| [modelferry](https://github.com/HamzaAhmedWajeeh/modelferry) | CLI for carrying model weights across air gaps. Ed25519-signed, SHA256-verified chunked bundles, plus a dependency-free verifier that runs on the offline side. On PyPI. |
+| [agentgate](https://github.com/HamzaAhmedWajeeh/agentgate) | Agent runtime where every action passes a policy gate, a budget gate, and human approval, with an append-only audit trail. LangGraph, FastAPI, Typer CLI. |
+| [LegalMind](https://github.com/HamzaAhmedWajeeh/LegalMind) | Multi-agent legal RAG. Hybrid BM25 and dense retrieval with Cohere reranking, 0.91 recall@10, faithfulness gate in CI. |
 | [Gold-Trading-Assistant](https://github.com/HamzaAhmedWajeeh/Gold-Trading-Assistant) | XAUUSD signal agent with a macroeconomic veto layer. Llama 3.3 70B via Groq proposes the trade, macro data can overrule it. |
-
-<!-- Add more rows to the table above as you open-source pieces of your work, e.g.: -->
-<!-- | [LegalMind](https://github.com/HamzaAhmedWajeeh/LegalMind) | Multi-agent legal RAG over statute and case documents | -->
-<!-- | [Lattice](https://github.com/HamzaAhmedWajeeh/Lattice) | Reference architecture for a sovereign AI/ML platform | -->
-
-More coming as I carve the shareable parts out of private work.
 
 ## Stack
 
